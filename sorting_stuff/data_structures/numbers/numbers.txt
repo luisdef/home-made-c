@@ -1,0 +1,6 @@
+Numbers in C
+
+int age = 30;
+float price = 9.99;
+double pi = 3.1415926535;
+unsigned int count = 100;
