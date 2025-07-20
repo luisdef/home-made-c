@@ -1,0 +1,12 @@
+Getting the basics of how to represent data in this language.
+
+What we already know?
+
+int main will run
+#include standards is important
+Very simple language, need to do a lot to get something running.
+
+Structure
+
+Control definitions, data representations, functions, calls, usage, builds
+Setting up building patterns

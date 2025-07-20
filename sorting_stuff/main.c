@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-
-int main()
+int main(int argc, char*[])
 {
-	printf("we'll sort some stuff here, data structure and basic language knowledge aquirement.\n");
+	printf("we'll sort some stuff here.\n");
+	printf("Data structure and basic language knowledge aquirement.\n");
 
 	return 0;
 }
